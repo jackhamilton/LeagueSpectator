@@ -1,0 +1,428 @@
+000000.000|    8164.0000kb|   8164.0000kb added| ALWAYS| Logging started at 2014-01-01T03:42:38.779
+000000.000|    8176.0000kb|     12.0000kb added|  ERROR| Failed to find Rads dynamic library. This should have been made available by the patcher (Rads).
+000000.015|   35040.0000kb|  26864.0000kb added| ALWAYS| SharedConfigPath: ../Air/preferences/
+000000.021|   35896.0000kb|    856.0000kb added| ALWAYS| Global logging level set to   WARN
+000000.021|   36048.0000kb|    152.0000kb added| ALWAYS| Build Version: Version 3.15.0.255 (Dec 13 2013/17:11:08) [PUBLIC] <Releases/3.15> ChangeList: 428866
+000000.055|   37768.0000kb|   1720.0000kb added| ALWAYS| "8394" "LoLLauncher.exe" "" "spectator 216.133.234.17:8088 dfV7nH5UdWMhFOvGQSy6faPWgDBddkfK 1220431294 <id_removed>"
+000000.055|   37876.0000kb|    108.0000kb added| ALWAYS| Performing WSAStartup
+000000.069|   39132.0000kb|   1256.0000kb added| ALWAYS| Started System Init
+000000.069|   39132.0000kb|      0.0000kb added| ALWAYS| Maestro Init
+000000.074|   39228.0000kb|     96.0000kb added| ALWAYS| Started ReplayDownloadManager thread.
+000000.074|   39232.0000kb|      4.0000kb added| ALWAYS| ==== Fetch MetaData Phase ====
+000000.074|   39232.0000kb|      0.0000kb added| ALWAYS| ---- Waiting to fetch 5000
+000001.156|   41408.0000kb|   2176.0000kb added| ALWAYS| OS Version String: Microsoft Professional (build 9200), 64-bit
+000001.156|   41408.0000kb|      0.0000kb added| ALWAYS| CPU: GenuineIntel, Intel(R) Core(TM) i5-4670K CPU @ 3.40GHz, Intel64 Family 6 Model 60 Stepping 3, 3400 (0 core)
+000001.156|   41408.0000kb|      0.0000kb added| ALWAYS| Measured processor speed: 3376
+000001.157|   41408.0000kb|      0.0000kb added| ALWAYS| Display info: NVIDIA GeForce GTX 760 2147483648 9.18.13.3193
+000001.157|   41408.0000kb|      0.0000kb added| ALWAYS| Physical memory: 8589934592
+000001.157|   41452.0000kb|     44.0000kb added| ALWAYS| {"messageType":"hardware_information","message_body":"Hardware Info","operating_system":"Microsoft Professional (build 9200), 64-bit","cpu":"GenuineIntel","cpu_processor":"Intel(R) Core(TM) i5-4670K CPU @ 3.40GHz","cpu_identifier":"Intel64 Family 6 Model 60 Stepping 3","cpu_topology":4,"gpu":"NVIDIA GeForce GTX 760","video_memory":"2147483648","driver_version":"9.18.13.3193","physical_memory":8589934592}
+000001.157|   41452.0000kb|      0.0000kb added| ALWAYS| -----HARDWARE INFORMATION START-----
+000001.157|   41452.0000kb|      0.0000kb added| ALWAYS| Operating System: Microsoft Professional (build 9200), 64-bit
+000001.157|   41452.0000kb|      0.0000kb added| ALWAYS| GPU Manufacturer: NVIDIA GeForce GTX 760
+000001.157|   41452.0000kb|      0.0000kb added| ALWAYS| GPU Memory: 2147483648
+000001.157|   41452.0000kb|      0.0000kb added| ALWAYS| GPU Driver Version: 9.18.13.3193
+000001.157|   41452.0000kb|      0.0000kb added| ALWAYS| CPU Brand: GenuineIntel
+000001.157|   41452.0000kb|      0.0000kb added| ALWAYS| CPU Processor Name: Intel(R) Core(TM) i5-4670K CPU @ 3.40GHz
+000001.157|   41452.0000kb|      0.0000kb added| ALWAYS| CPU Identifier: Intel64 Family 6 Model 60 Stepping 3
+000001.157|   41452.0000kb|      0.0000kb added| ALWAYS| CPU Speed: 3400
+000001.157|   41452.0000kb|      0.0000kb added| ALWAYS| CPU Topology: 4 Core
+000001.157|   41452.0000kb|      0.0000kb added| ALWAYS| Physical memory: 8589934592
+000001.157|   41452.0000kb|      0.0000kb added| ALWAYS| -----HARDWARE INFORMATION END-----
+000001.170|   41512.0000kb|     60.0000kb added| ALWAYS| Maestro completed init
+000001.170|   41540.0000kb|     28.0000kb added|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = r; errno = 2; pFilename = ClientZips.txt; msg = No such file or directory;
+000001.170|   41540.0000kb|      0.0000kb added|  ERROR| Failed to open "ClientZips.txt"
+000001.170|   41540.0000kb|      0.0000kb added| ALWAYS| Replay mode
+000001.171| ALWAYS| StartSession called
+000001.171| ALWAYS| Started Init event arguments
+000001.172| ALWAYS| Waiting until connection...
+000001.172| ALWAYS| InitRenderer() enter
+000001.172| ALWAYS| r3dRenderLayer::Init(0x00220a0e) enter
+000001.203| ALWAYS| r3dRenderLayer::Init() exit successfully
+000001.237|  ERROR| Failed to load any localizations!
+000001.237|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = C:/Users/Jack/Documents/NetBeansProjects/LeagueSpectator/Data/Menu/IMEConfig.xml; msg = No such file or directory;
+000001.237|  ERROR| Missing file on r3dGFile open :C:/Users/Jack/Documents/NetBeansProjects/LeagueSpectator/Data/Menu/IMEConfig.xml
+000001.241|  ERROR| Failed to find IME candidate list interface from the path set to: IME_AS2.gfx
+000001.241| ALWAYS| OptionsManager::ApplyAutoPerformanceSettings()
+000001.241|  ERROR| Failed to load font size and resolution file. Game fonts will not work!
+000001.241| ALWAYS| r3dRenderLayer::SetMode(XRes = 1920, YRes = 1080, BPP = 32,  Flags=256) enter
+000001.241| ALWAYS| r3dRenderLayer::SetMode: Creating d3d device
+000001.579|   WARN| r3dTexture EX:  - not found. Dummy texture created.
+000001.579| ALWAYS| r3dRenderLayer::SetMode: Initialize shaders for current rendering path
+000001.579|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/Filters\Dilate\PS_2PASS_DILATE_FILTER_1.ps_2_0; msg = No such file or directory;
+000001.579|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/Filters\Dilate\PS_2PASS_DILATE_FILTER_1.ps_2_0> 
+000001.579|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/Filters\Dilate\PS_2PASS_DILATE_FILTER_2.ps_2_0; msg = No such file or directory;
+000001.579|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/Filters\Dilate\PS_2PASS_DILATE_FILTER_2.ps_2_0> 
+000001.579|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/Filters\Dilate\PS_2PASS_DILATE_FILTER_3.ps_2_0; msg = No such file or directory;
+000001.579|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/Filters\Dilate\PS_2PASS_DILATE_FILTER_3.ps_2_0> 
+000001.579|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/Filters\Dilate\PS_2PASS_DILATE_FILTER_4.ps_2_0; msg = No such file or directory;
+000001.580|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/Filters\Dilate\PS_2PASS_DILATE_FILTER_4.ps_2_0> 
+000001.580|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/Filters\Dilate\PS_2PASS_DILATE_FILTER_5.ps_2_0; msg = No such file or directory;
+000001.580|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/Filters\Dilate\PS_2PASS_DILATE_FILTER_5.ps_2_0> 
+000001.580|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/Filters\Dilate\PS_2PASS_DILATE_FILTER_6.ps_2_0; msg = No such file or directory;
+000001.580|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/Filters\Dilate\PS_2PASS_DILATE_FILTER_6.ps_2_0> 
+000001.580|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/Filters\Dilate\PS_2PASS_DILATE_FILTER_7.ps_2_0; msg = No such file or directory;
+000001.580|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/Filters\Dilate\PS_2PASS_DILATE_FILTER_7.ps_2_0> 
+000001.580|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/Filters\Dilate\PS_2PASS_DILATE_FILTER_8.ps_2_0; msg = No such file or directory;
+000001.580|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/Filters\Dilate\PS_2PASS_DILATE_FILTER_8.ps_2_0> 
+000001.580|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/Filters\Dilate\PS_2PASS_DILATE_FILTER_9.ps_2_0; msg = No such file or directory;
+000001.580|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/Filters\Dilate\PS_2PASS_DILATE_FILTER_9.ps_2_0> 
+000001.580|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/Filters\PS_DILATE_FILTER.ps_2_0; msg = No such file or directory;
+000001.580|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/Filters\PS_DILATE_FILTER.ps_2_0> 
+000001.580|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/Filters\PS_DILATE_FILTER3.ps_2_0; msg = No such file or directory;
+000001.580|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/Filters\PS_DILATE_FILTER3.ps_2_0> 
+000001.580|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/Filters\PS_COPY_FILTER.ps_2_0; msg = No such file or directory;
+000001.580|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/Filters\PS_COPY_FILTER.ps_2_0> 
+000001.580|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/Filters\PS_COPY_FILTER_WITH_COLOR_MOD.ps_2_0; msg = No such file or directory;
+000001.580|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/Filters\PS_COPY_FILTER_WITH_COLOR_MOD.ps_2_0> 
+000001.580|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/MOUSE_OVER_EFFECT\PS_APPLY_MASK.ps_2_0; msg = No such file or directory;
+000001.580|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/MOUSE_OVER_EFFECT\PS_APPLY_MASK.ps_2_0> 
+000001.580|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/Filters\PS_TOON_INKING_FILTER.ps_2_0; msg = No such file or directory;
+000001.580|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/Filters\PS_TOON_INKING_FILTER.ps_2_0> 
+000001.580|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/Filters\Gauss.ps_2_0; msg = No such file or directory;
+000001.580|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/Filters\Gauss.ps_2_0> 
+000001.580|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/FXAA_PS.ps_3_0; msg = No such file or directory;
+000001.580|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/FXAA_PS.ps_3_0> 
+000001.580|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/R3DRENDER/VS_SCREENVERTEX.vs_2_0; msg = No such file or directory;
+000001.580|  ERROR| r3dVertexShader::Compile: failed to open file <Data/Shaders/DX9_P1/R3DRENDER/VS_SCREENVERTEX.vs_2_0> 
+000001.580|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/R3DRENDER/VS_SCREENVERTEX_SCALE_AND_BIAS.vs_2_0; msg = No such file or directory;
+000001.580|  ERROR| r3dVertexShader::Compile: failed to open file <Data/Shaders/DX9_P1/R3DRENDER/VS_SCREENVERTEX_SCALE_AND_BIAS.vs_2_0> 
+000001.580|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/R3DRENDER/VS_SCREENVERTEX_SCALE_AND_BIAS_AND_ROTATE.vs_2_0; msg = No such file or directory;
+000001.581|  ERROR| r3dVertexShader::Compile: failed to open file <Data/Shaders/DX9_P1/R3DRENDER/VS_SCREENVERTEX_SCALE_AND_BIAS_AND_ROTATE.vs_2_0> 
+000001.581|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/R3DRENDER/VS_SIMPLEWORLDVERTEX.vs_2_0; msg = No such file or directory;
+000001.581|  ERROR| r3dVertexShader::Compile: failed to open file <Data/Shaders/DX9_P1/R3DRENDER/VS_SIMPLEWORLDVERTEX.vs_2_0> 
+000001.581|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/R3DRENDER/VS_WORLDVERTEX.vs_2_0; msg = No such file or directory;
+000001.581|  ERROR| r3dVertexShader::Compile: failed to open file <Data/Shaders/DX9_P1/R3DRENDER/VS_WORLDVERTEX.vs_2_0> 
+000001.581|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/R3DRENDER/PS_SCREENVERTEX.ps_2_0; msg = No such file or directory;
+000001.581|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/R3DRENDER/PS_SCREENVERTEX.ps_2_0> 
+000001.581|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/R3DRENDER/PS_SIMPLEWORLDVERTEX.ps_2_0; msg = No such file or directory;
+000001.581|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/R3DRENDER/PS_SIMPLEWORLDVERTEX.ps_2_0> 
+000001.581|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/R3DRENDER/PS_WORLDVERTEX.ps_2_0; msg = No such file or directory;
+000001.581|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/R3DRENDER/PS_WORLDVERTEX.ps_2_0> 
+000001.581|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/R3DRENDER/PS_SCREENVERTEX.ps_2_0; msg = No such file or directory;
+000001.581|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/R3DRENDER/PS_SCREENVERTEX.ps_2_0> 
+000001.581|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/RENDER_GLYPH/PS_RENDER_FILL_AND_OUTLINE.ps_2_0; msg = No such file or directory;
+000001.581|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/RENDER_GLYPH/PS_RENDER_FILL_AND_OUTLINE.ps_2_0> 
+000001.581|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/RENDER_GLYPH/PS_RENDER_GLOW.ps_2_0; msg = No such file or directory;
+000001.581|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/RENDER_GLYPH/PS_RENDER_GLOW.ps_2_0> 
+000001.581|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/RENDER_GLYPH/VS_RENDER_FILL_AND_OUTLINE.vs_2_0; msg = No such file or directory;
+000001.581|  ERROR| r3dVertexShader::Compile: failed to open file <Data/Shaders/DX9_P1/RENDER_GLYPH/VS_RENDER_FILL_AND_OUTLINE.vs_2_0> 
+000001.581|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/RENDER_GLYPH/VS_RENDER_GLOW.vs_2_0; msg = No such file or directory;
+000001.581|  ERROR| r3dVertexShader::Compile: failed to open file <Data/Shaders/DX9_P1/RENDER_GLYPH/VS_RENDER_GLOW.vs_2_0> 
+000001.582| ALWAYS| r3dRenderLayer::RecreateOwnedResources
+000001.828| ALWAYS| r3dRenderLayer::SetMode exit successfully
+000001.828|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/SIMPLE_SKIN/DEFAULT_PS.ps_2_0; msg = No such file or directory;
+000001.828|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/SIMPLE_SKIN/DEFAULT_PS.ps_2_0> 
+000001.828|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/SIMPLE_SKIN/DEFAULT_PS.ps_2_0; msg = No such file or directory;
+000001.828|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/SIMPLE_SKIN/DEFAULT_PS.ps_2_0> 
+000001.828|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/SIMPLE_SKIN/DEFAULT_PS.ps_2_0; msg = No such file or directory;
+000001.828|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/SIMPLE_SKIN/DEFAULT_PS.ps_2_0> 
+000001.828|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/SIMPLE_SKIN/SHADOW_MAP_PS.ps_2_0; msg = No such file or directory;
+000001.828|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/SIMPLE_SKIN/SHADOW_MAP_PS.ps_2_0> 
+000001.829|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/SIMPLE_SKIN/SHADOW_MAP_PS.ps_2_0; msg = No such file or directory;
+000001.829|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/SIMPLE_SKIN/SHADOW_MAP_PS.ps_2_0> 
+000001.829|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/SIMPLE_SKIN/SHADOW_MAP_PS.ps_2_0; msg = No such file or directory;
+000001.829|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/SIMPLE_SKIN/SHADOW_MAP_PS.ps_2_0> 
+000001.829|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/SIMPLE_SKIN/SOLID_COLOR_PS.ps_2_0; msg = No such file or directory;
+000001.829|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/SIMPLE_SKIN/SOLID_COLOR_PS.ps_2_0> 
+000001.829|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/SIMPLE_SKIN/SOLID_COLOR_PS.ps_2_0; msg = No such file or directory;
+000001.829|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/SIMPLE_SKIN/SOLID_COLOR_PS.ps_2_0> 
+000001.829|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/SIMPLE_SKIN/SOLID_COLOR_PS.ps_2_0; msg = No such file or directory;
+000001.829|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/SIMPLE_SKIN/SOLID_COLOR_PS.ps_2_0> 
+000001.829|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/SIMPLE_SKIN/WHITE_WITH_DEPTH_PS.ps_2_0; msg = No such file or directory;
+000001.829|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/SIMPLE_SKIN/WHITE_WITH_DEPTH_PS.ps_2_0> 
+000001.829|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/SIMPLE_SKIN/WHITE_WITH_DEPTH_PS.ps_2_0; msg = No such file or directory;
+000001.829|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/SIMPLE_SKIN/WHITE_WITH_DEPTH_PS.ps_2_0> 
+000001.829|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/SIMPLE_SKIN/WHITE_WITH_DEPTH_PS.ps_2_0; msg = No such file or directory;
+000001.829|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/SIMPLE_SKIN/WHITE_WITH_DEPTH_PS.ps_2_0> 
+000001.829|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/SIMPLE_SKIN/LIT_PS.ps_2_0; msg = No such file or directory;
+000001.829|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/SIMPLE_SKIN/LIT_PS.ps_2_0> 
+000001.829|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/SIMPLE_SKIN/LIT_PS.ps_2_0; msg = No such file or directory;
+000001.829|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/SIMPLE_SKIN/LIT_PS.ps_2_0> 
+000001.829|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/SIMPLE_SKIN/LIT_PS.ps_2_0; msg = No such file or directory;
+000001.829|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/SIMPLE_SKIN/LIT_PS.ps_2_0> 
+000001.829|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/SIMPLE_SKIN/LIT_REFLECTIVE_PS.ps_2_0; msg = No such file or directory;
+000001.829|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/SIMPLE_SKIN/LIT_REFLECTIVE_PS.ps_2_0> 
+000001.829|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/SIMPLE_SKIN/LIT_REFLECTIVE_PS.ps_2_0; msg = No such file or directory;
+000001.829|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/SIMPLE_SKIN/LIT_REFLECTIVE_PS.ps_2_0> 
+000001.829|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/SIMPLE_SKIN/LIT_REFLECTIVE_PS.ps_2_0; msg = No such file or directory;
+000001.829|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/SIMPLE_SKIN/LIT_REFLECTIVE_PS.ps_2_0> 
+000001.829|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/SIMPLE_SKIN/LIT_AND_WHITE_FIXED_ALPHA_PS.ps_2_0; msg = No such file or directory;
+000001.829|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/SIMPLE_SKIN/LIT_AND_WHITE_FIXED_ALPHA_PS.ps_2_0> 
+000001.830|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/SIMPLE_SKIN/LIT_AND_WHITE_FIXED_ALPHA_PS.ps_2_0; msg = No such file or directory;
+000001.830|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/SIMPLE_SKIN/LIT_AND_WHITE_FIXED_ALPHA_PS.ps_2_0> 
+000001.830|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/SIMPLE_SKIN/LIT_AND_WHITE_FIXED_ALPHA_PS.ps_2_0; msg = No such file or directory;
+000001.830|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/SIMPLE_SKIN/LIT_AND_WHITE_FIXED_ALPHA_PS.ps_2_0> 
+000001.830|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/SIMPLE_SKIN/LIT_FIXED_ALPHA_PS.ps_2_0; msg = No such file or directory;
+000001.830|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/SIMPLE_SKIN/LIT_FIXED_ALPHA_PS.ps_2_0> 
+000001.830|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/SIMPLE_SKIN/LIT_FIXED_ALPHA_PS.ps_2_0; msg = No such file or directory;
+000001.830|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/SIMPLE_SKIN/LIT_FIXED_ALPHA_PS.ps_2_0> 
+000001.830|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/SIMPLE_SKIN/LIT_FIXED_ALPHA_PS.ps_2_0; msg = No such file or directory;
+000001.830|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/SIMPLE_SKIN/LIT_FIXED_ALPHA_PS.ps_2_0> 
+000001.830|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/SIMPLE_SKIN/LIT_AND_WHITE_WITH_DEPTH_PS.ps_2_0; msg = No such file or directory;
+000001.830|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/SIMPLE_SKIN/LIT_AND_WHITE_WITH_DEPTH_PS.ps_2_0> 
+000001.830|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/SIMPLE_SKIN/LIT_AND_WHITE_WITH_DEPTH_PS.ps_2_0; msg = No such file or directory;
+000001.830|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/SIMPLE_SKIN/LIT_AND_WHITE_WITH_DEPTH_PS.ps_2_0> 
+000001.830|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/SIMPLE_SKIN/LIT_AND_WHITE_WITH_DEPTH_PS.ps_2_0; msg = No such file or directory;
+000001.830|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/SIMPLE_SKIN/LIT_AND_WHITE_WITH_DEPTH_PS.ps_2_0> 
+000001.830|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/SIMPLE_SKIN/LIT_LOW_PS.ps_2_0; msg = No such file or directory;
+000001.830|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/SIMPLE_SKIN/LIT_LOW_PS.ps_2_0> 
+000001.830|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/SIMPLE_SKIN/LIT_LOW_PS.ps_2_0; msg = No such file or directory;
+000001.830|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/SIMPLE_SKIN/LIT_LOW_PS.ps_2_0> 
+000001.830|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/SIMPLE_SKIN/LIT_LOW_PS.ps_2_0; msg = No such file or directory;
+000001.830|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/SIMPLE_SKIN/LIT_LOW_PS.ps_2_0> 
+000001.830|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/SIMPLE_SKIN/LIT_LOW_TRANSITION_PS.ps_2_0; msg = No such file or directory;
+000001.830|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/SIMPLE_SKIN/LIT_LOW_TRANSITION_PS.ps_2_0> 
+000001.830|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/SIMPLE_SKIN/LIT_LOW_TRANSITION_PS.ps_2_0; msg = No such file or directory;
+000001.830|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/SIMPLE_SKIN/LIT_LOW_TRANSITION_PS.ps_2_0> 
+000001.830|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/SIMPLE_SKIN/LIT_LOW_TRANSITION_PS.ps_2_0; msg = No such file or directory;
+000001.830|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/SIMPLE_SKIN/LIT_LOW_TRANSITION_PS.ps_2_0> 
+000001.830|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/SIMPLE_SKIN/LIT_LOW_REFLECTIVE_PS.ps_2_0; msg = No such file or directory;
+000001.830|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/SIMPLE_SKIN/LIT_LOW_REFLECTIVE_PS.ps_2_0> 
+000001.831|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/SIMPLE_SKIN/LIT_LOW_REFLECTIVE_PS.ps_2_0; msg = No such file or directory;
+000001.831|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/SIMPLE_SKIN/LIT_LOW_REFLECTIVE_PS.ps_2_0> 
+000001.831|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/SIMPLE_SKIN/LIT_LOW_REFLECTIVE_PS.ps_2_0; msg = No such file or directory;
+000001.831|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/SIMPLE_SKIN/LIT_LOW_REFLECTIVE_PS.ps_2_0> 
+000001.831|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/SIMPLE_SKIN/LIT_TEX_TRANSITION_PS.ps_2_0; msg = No such file or directory;
+000001.831|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/SIMPLE_SKIN/LIT_TEX_TRANSITION_PS.ps_2_0> 
+000001.831|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/SIMPLE_SKIN/LIT_TEX_TRANSITION_PS.ps_2_0; msg = No such file or directory;
+000001.831|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/SIMPLE_SKIN/LIT_TEX_TRANSITION_PS.ps_2_0> 
+000001.831|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/SIMPLE_SKIN/LIT_TEX_TRANSITION_PS.ps_2_0; msg = No such file or directory;
+000001.831|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/SIMPLE_SKIN/LIT_TEX_TRANSITION_PS.ps_2_0> 
+000001.831|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/SIMPLE_SKIN/LIT_TEX_TRANSITION_WITHOUT_MRT_PS.ps_2_0; msg = No such file or directory;
+000001.831|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/SIMPLE_SKIN/LIT_TEX_TRANSITION_WITHOUT_MRT_PS.ps_2_0> 
+000001.831|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/SIMPLE_SKIN/LIT_TEX_TRANSITION_WITHOUT_MRT_PS.ps_2_0; msg = No such file or directory;
+000001.831|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/SIMPLE_SKIN/LIT_TEX_TRANSITION_WITHOUT_MRT_PS.ps_2_0> 
+000001.831|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/SIMPLE_SKIN/LIT_TEX_TRANSITION_WITHOUT_MRT_PS.ps_2_0; msg = No such file or directory;
+000001.831|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/SIMPLE_SKIN/LIT_TEX_TRANSITION_WITHOUT_MRT_PS.ps_2_0> 
+000001.831|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/SIMPLE_SKIN/LIT_PROP_PS.ps_2_0; msg = No such file or directory;
+000001.831|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/SIMPLE_SKIN/LIT_PROP_PS.ps_2_0> 
+000001.831|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/SIMPLE_SKIN/LIT_PROP_PS.ps_2_0; msg = No such file or directory;
+000001.831|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/SIMPLE_SKIN/LIT_PROP_PS.ps_2_0> 
+000001.831|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/SIMPLE_SKIN/LIT_PROP_PS.ps_2_0; msg = No such file or directory;
+000001.831|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/SIMPLE_SKIN/LIT_PROP_PS.ps_2_0> 
+000001.831|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/SIMPLE_SKIN/LIT_PROP_LOW_PS.ps_2_0; msg = No such file or directory;
+000001.831|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/SIMPLE_SKIN/LIT_PROP_LOW_PS.ps_2_0> 
+000001.832|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/SIMPLE_SKIN/LIT_PROP_LOW_PS.ps_2_0; msg = No such file or directory;
+000001.832|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/SIMPLE_SKIN/LIT_PROP_LOW_PS.ps_2_0> 
+000001.832|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/SIMPLE_SKIN/LIT_PROP_LOW_PS.ps_2_0; msg = No such file or directory;
+000001.832|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/SIMPLE_SKIN/LIT_PROP_LOW_PS.ps_2_0> 
+000001.832|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/SIMPLE_SKIN/LIT_PROP_REFLECTIVE_PS.ps_2_0; msg = No such file or directory;
+000001.832|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/SIMPLE_SKIN/LIT_PROP_REFLECTIVE_PS.ps_2_0> 
+000001.832|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/SIMPLE_SKIN/LIT_PROP_REFLECTIVE_PS.ps_2_0; msg = No such file or directory;
+000001.832|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/SIMPLE_SKIN/LIT_PROP_REFLECTIVE_PS.ps_2_0> 
+000001.832|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/SIMPLE_SKIN/LIT_PROP_REFLECTIVE_PS.ps_2_0; msg = No such file or directory;
+000001.832|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/SIMPLE_SKIN/LIT_PROP_REFLECTIVE_PS.ps_2_0> 
+000001.832|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/SIMPLE_SKIN/LIT_AND_REFLECTIVE_PS.ps_2_0; msg = No such file or directory;
+000001.832|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/SIMPLE_SKIN/LIT_AND_REFLECTIVE_PS.ps_2_0> 
+000001.832|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/SIMPLE_SKIN/LIT_AND_REFLECTIVE_PS.ps_2_0; msg = No such file or directory;
+000001.832|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/SIMPLE_SKIN/LIT_AND_REFLECTIVE_PS.ps_2_0> 
+000001.832|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/SIMPLE_SKIN/LIT_AND_REFLECTIVE_PS.ps_2_0; msg = No such file or directory;
+000001.832|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/SIMPLE_SKIN/LIT_AND_REFLECTIVE_PS.ps_2_0> 
+000001.832|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/SIMPLE_SKIN/LIT_PROP_SWAYING_GRASS_DISABLED_PS.ps_2_0; msg = No such file or directory;
+000001.832|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/SIMPLE_SKIN/LIT_PROP_SWAYING_GRASS_DISABLED_PS.ps_2_0> 
+000001.832|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/SIMPLE_SKIN/LIT_PROP_SWAYING_GRASS_DISABLED_PS.ps_2_0; msg = No such file or directory;
+000001.832|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/SIMPLE_SKIN/LIT_PROP_SWAYING_GRASS_DISABLED_PS.ps_2_0> 
+000001.832|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/SIMPLE_SKIN/LIT_PROP_SWAYING_GRASS_DISABLED_PS.ps_2_0; msg = No such file or directory;
+000001.832|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/SIMPLE_SKIN/LIT_PROP_SWAYING_GRASS_DISABLED_PS.ps_2_0> 
+000001.832|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/SIMPLE_SKIN/DEFAULT_VS.vs_2_0; msg = No such file or directory;
+000001.832|  ERROR| r3dVertexShader::Compile: failed to open file <Data/Shaders/DX9_P1/SIMPLE_SKIN/DEFAULT_VS.vs_2_0> 
+000001.832|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/SIMPLE_SKIN/SHADOW_MAP_VS.vs_2_0; msg = No such file or directory;
+000001.832|  ERROR| r3dVertexShader::Compile: failed to open file <Data/Shaders/DX9_P1/SIMPLE_SKIN/SHADOW_MAP_VS.vs_2_0> 
+000001.833|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/SIMPLE_SKIN/SOLID_COLOR_VS.vs_2_0; msg = No such file or directory;
+000001.833|  ERROR| r3dVertexShader::Compile: failed to open file <Data/Shaders/DX9_P1/SIMPLE_SKIN/SOLID_COLOR_VS.vs_2_0> 
+000001.833|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/SIMPLE_SKIN/WHITE_WITH_DEPTH_VS.vs_2_0; msg = No such file or directory;
+000001.833|  ERROR| r3dVertexShader::Compile: failed to open file <Data/Shaders/DX9_P1/SIMPLE_SKIN/WHITE_WITH_DEPTH_VS.vs_2_0> 
+000001.833|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/SIMPLE_SKIN/LIT_VS.vs_2_0; msg = No such file or directory;
+000001.833|  ERROR| r3dVertexShader::Compile: failed to open file <Data/Shaders/DX9_P1/SIMPLE_SKIN/LIT_VS.vs_2_0> 
+000001.833|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/SIMPLE_SKIN/LIT_REFLECTIVE_VS.vs_2_0; msg = No such file or directory;
+000001.833|  ERROR| r3dVertexShader::Compile: failed to open file <Data/Shaders/DX9_P1/SIMPLE_SKIN/LIT_REFLECTIVE_VS.vs_2_0> 
+000001.833|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/SIMPLE_SKIN/LIT_AND_WHITE_FIXED_ALPHA_VS.vs_2_0; msg = No such file or directory;
+000001.833|  ERROR| r3dVertexShader::Compile: failed to open file <Data/Shaders/DX9_P1/SIMPLE_SKIN/LIT_AND_WHITE_FIXED_ALPHA_VS.vs_2_0> 
+000001.833|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/SIMPLE_SKIN/LIT_FIXED_ALPHA_VS.vs_2_0; msg = No such file or directory;
+000001.833|  ERROR| r3dVertexShader::Compile: failed to open file <Data/Shaders/DX9_P1/SIMPLE_SKIN/LIT_FIXED_ALPHA_VS.vs_2_0> 
+000001.833|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/SIMPLE_SKIN/LIT_AND_WHITE_WITH_DEPTH_VS.vs_2_0; msg = No such file or directory;
+000001.833|  ERROR| r3dVertexShader::Compile: failed to open file <Data/Shaders/DX9_P1/SIMPLE_SKIN/LIT_AND_WHITE_WITH_DEPTH_VS.vs_2_0> 
+000001.833|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/SIMPLE_SKIN/LIT_LOW_VS.vs_2_0; msg = No such file or directory;
+000001.833|  ERROR| r3dVertexShader::Compile: failed to open file <Data/Shaders/DX9_P1/SIMPLE_SKIN/LIT_LOW_VS.vs_2_0> 
+000001.833|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/SIMPLE_SKIN/LIT_LOW_REFLECTIVE_VS.vs_2_0; msg = No such file or directory;
+000001.833|  ERROR| r3dVertexShader::Compile: failed to open file <Data/Shaders/DX9_P1/SIMPLE_SKIN/LIT_LOW_REFLECTIVE_VS.vs_2_0> 
+000001.833|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/SIMPLE_SKIN/LIT_PROP_VS.vs_2_0; msg = No such file or directory;
+000001.833|  ERROR| r3dVertexShader::Compile: failed to open file <Data/Shaders/DX9_P1/SIMPLE_SKIN/LIT_PROP_VS.vs_2_0> 
+000001.833|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/SIMPLE_SKIN/LIT_PROP_LOW_VS.vs_2_0; msg = No such file or directory;
+000001.833|  ERROR| r3dVertexShader::Compile: failed to open file <Data/Shaders/DX9_P1/SIMPLE_SKIN/LIT_PROP_LOW_VS.vs_2_0> 
+000001.833|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/SIMPLE_SKIN/LIT_PROP_REFLECTIVE_VS.vs_2_0; msg = No such file or directory;
+000001.834|  ERROR| r3dVertexShader::Compile: failed to open file <Data/Shaders/DX9_P1/SIMPLE_SKIN/LIT_PROP_REFLECTIVE_VS.vs_2_0> 
+000001.834|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/SIMPLE_SKIN/LIT_AND_REFLECTIVE_VS.vs_2_0; msg = No such file or directory;
+000001.834|  ERROR| r3dVertexShader::Compile: failed to open file <Data/Shaders/DX9_P1/SIMPLE_SKIN/LIT_AND_REFLECTIVE_VS.vs_2_0> 
+000001.834|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/SIMPLE_SKIN/LIT_PROP_SWAYING_GRASS_DISABLED_VS.vs_2_0; msg = No such file or directory;
+000001.834|  ERROR| r3dVertexShader::Compile: failed to open file <Data/Shaders/DX9_P1/SIMPLE_SKIN/LIT_PROP_SWAYING_GRASS_DISABLED_VS.vs_2_0> 
+000001.834|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/SIMPLE_ENVIRONMENT/SHADOW_MAP_PS.ps_2_0; msg = No such file or directory;
+000001.834|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/SIMPLE_ENVIRONMENT/SHADOW_MAP_PS.ps_2_0> 
+000001.834|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/SIMPLE_ENVIRONMENT/SHADOW_MAP_PS.ps_2_0; msg = No such file or directory;
+000001.834|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/SIMPLE_ENVIRONMENT/SHADOW_MAP_PS.ps_2_0> 
+000001.834|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/SIMPLE_ENVIRONMENT/LIT_PS.ps_2_0; msg = No such file or directory;
+000001.834|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/SIMPLE_ENVIRONMENT/LIT_PS.ps_2_0> 
+000001.834|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/SIMPLE_ENVIRONMENT/LIT_PS.ps_2_0; msg = No such file or directory;
+000001.834|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/SIMPLE_ENVIRONMENT/LIT_PS.ps_2_0> 
+000001.834|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/SIMPLE_ENVIRONMENT/LIT_NO_EMISSIVE_PS.ps_2_0; msg = No such file or directory;
+000001.834|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/SIMPLE_ENVIRONMENT/LIT_NO_EMISSIVE_PS.ps_2_0> 
+000001.834|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/SIMPLE_ENVIRONMENT/LIT_NO_EMISSIVE_PS.ps_2_0; msg = No such file or directory;
+000001.834|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/SIMPLE_ENVIRONMENT/LIT_NO_EMISSIVE_PS.ps_2_0> 
+000001.834|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/SIMPLE_ENVIRONMENT/LIT_DECAL_PS.ps_2_0; msg = No such file or directory;
+000001.834|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/SIMPLE_ENVIRONMENT/LIT_DECAL_PS.ps_2_0> 
+000001.834|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/SIMPLE_ENVIRONMENT/LIT_DECAL_PS.ps_2_0; msg = No such file or directory;
+000001.834|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/SIMPLE_ENVIRONMENT/LIT_DECAL_PS.ps_2_0> 
+000001.834|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/SIMPLE_ENVIRONMENT/LIT_NO_EMISSIVE_DECAL_PS.ps_2_0; msg = No such file or directory;
+000001.834|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/SIMPLE_ENVIRONMENT/LIT_NO_EMISSIVE_DECAL_PS.ps_2_0> 
+000001.834|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/SIMPLE_ENVIRONMENT/LIT_NO_EMISSIVE_DECAL_PS.ps_2_0; msg = No such file or directory;
+000001.834|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/SIMPLE_ENVIRONMENT/LIT_NO_EMISSIVE_DECAL_PS.ps_2_0> 
+000001.834|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/SIMPLE_ENVIRONMENT/NOLIGHTING_PS.ps_2_0; msg = No such file or directory;
+000001.834|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/SIMPLE_ENVIRONMENT/NOLIGHTING_PS.ps_2_0> 
+000001.835|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/SIMPLE_ENVIRONMENT/NOLIGHTING_PS.ps_2_0; msg = No such file or directory;
+000001.835|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/SIMPLE_ENVIRONMENT/NOLIGHTING_PS.ps_2_0> 
+000001.835|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/SIMPLE_ENVIRONMENT/NOLIGHTING_WITHFOG_PS.ps_2_0; msg = No such file or directory;
+000001.835|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/SIMPLE_ENVIRONMENT/NOLIGHTING_WITHFOG_PS.ps_2_0> 
+000001.835|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/SIMPLE_ENVIRONMENT/NOLIGHTING_WITHFOG_PS.ps_2_0; msg = No such file or directory;
+000001.835|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/SIMPLE_ENVIRONMENT/NOLIGHTING_WITHFOG_PS.ps_2_0> 
+000001.835|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/SIMPLE_ENVIRONMENT/ZPASS_PS.ps_2_0; msg = No such file or directory;
+000001.835|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/SIMPLE_ENVIRONMENT/ZPASS_PS.ps_2_0> 
+000001.835|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/SIMPLE_ENVIRONMENT/ZPASS_PS.ps_2_0; msg = No such file or directory;
+000001.835|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/SIMPLE_ENVIRONMENT/ZPASS_PS.ps_2_0> 
+000001.835|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/SIMPLE_ENVIRONMENT/ZPASS_ALPHA_TEST_PS.ps_2_0; msg = No such file or directory;
+000001.835|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/SIMPLE_ENVIRONMENT/ZPASS_ALPHA_TEST_PS.ps_2_0> 
+000001.835|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/SIMPLE_ENVIRONMENT/ZPASS_ALPHA_TEST_PS.ps_2_0; msg = No such file or directory;
+000001.835|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/SIMPLE_ENVIRONMENT/ZPASS_ALPHA_TEST_PS.ps_2_0> 
+000001.835|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/SIMPLE_ENVIRONMENT/WALL_OF_GRASS_PS.ps_2_0; msg = No such file or directory;
+000001.835|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/SIMPLE_ENVIRONMENT/WALL_OF_GRASS_PS.ps_2_0> 
+000001.835|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/SIMPLE_ENVIRONMENT/WALL_OF_GRASS_PS.ps_2_0; msg = No such file or directory;
+000001.835|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/SIMPLE_ENVIRONMENT/WALL_OF_GRASS_PS.ps_2_0> 
+000001.835|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/SIMPLE_ENVIRONMENT/CREATE_GROUND_MOSAIC_DECAL_PS.ps_2_0; msg = No such file or directory;
+000001.835|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/SIMPLE_ENVIRONMENT/CREATE_GROUND_MOSAIC_DECAL_PS.ps_2_0> 
+000001.835|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/SIMPLE_ENVIRONMENT/CREATE_GROUND_MOSAIC_DECAL_PS.ps_2_0; msg = No such file or directory;
+000001.835|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/SIMPLE_ENVIRONMENT/CREATE_GROUND_MOSAIC_DECAL_PS.ps_2_0> 
+000001.835|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/SIMPLE_ENVIRONMENT/CREATE_GROUND_MOSAIC_FOUR_BLEND_PS.ps_2_0; msg = No such file or directory;
+000001.835|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/SIMPLE_ENVIRONMENT/CREATE_GROUND_MOSAIC_FOUR_BLEND_PS.ps_2_0> 
+000001.835|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/SIMPLE_ENVIRONMENT/CREATE_GROUND_MOSAIC_FOUR_BLEND_PS.ps_2_0; msg = No such file or directory;
+000001.835|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/SIMPLE_ENVIRONMENT/CREATE_GROUND_MOSAIC_FOUR_BLEND_PS.ps_2_0> 
+000001.835|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/SIMPLE_ENVIRONMENT/LIT_GROUND_MOSAIC_PS.ps_2_0; msg = No such file or directory;
+000001.835|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/SIMPLE_ENVIRONMENT/LIT_GROUND_MOSAIC_PS.ps_2_0> 
+000001.835|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/SIMPLE_ENVIRONMENT/LIT_GROUND_MOSAIC_PS.ps_2_0; msg = No such file or directory;
+000001.836|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/SIMPLE_ENVIRONMENT/LIT_GROUND_MOSAIC_PS.ps_2_0> 
+000001.836|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/SIMPLE_ENVIRONMENT/LIT_FOUR_BLEND_PS.ps_2_0; msg = No such file or directory;
+000001.836|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/SIMPLE_ENVIRONMENT/LIT_FOUR_BLEND_PS.ps_2_0> 
+000001.836|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/SIMPLE_ENVIRONMENT/LIT_FOUR_BLEND_PS.ps_2_0; msg = No such file or directory;
+000001.836|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/SIMPLE_ENVIRONMENT/LIT_FOUR_BLEND_PS.ps_2_0> 
+000001.836|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/SIMPLE_ENVIRONMENT/UNLIT_DECAL_PS.ps_2_0; msg = No such file or directory;
+000001.836|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/SIMPLE_ENVIRONMENT/UNLIT_DECAL_PS.ps_2_0> 
+000001.836|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/SIMPLE_ENVIRONMENT/UNLIT_DECAL_PS.ps_2_0; msg = No such file or directory;
+000001.836|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/SIMPLE_ENVIRONMENT/UNLIT_DECAL_PS.ps_2_0> 
+000001.836|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/SIMPLE_ENVIRONMENT/CUBE_PROJECTION_PS.ps_2_0; msg = No such file or directory;
+000001.836|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/SIMPLE_ENVIRONMENT/CUBE_PROJECTION_PS.ps_2_0> 
+000001.836|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/SIMPLE_ENVIRONMENT/CUBE_PROJECTION_PS.ps_2_0; msg = No such file or directory;
+000001.836|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/SIMPLE_ENVIRONMENT/CUBE_PROJECTION_PS.ps_2_0> 
+000001.836|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/SIMPLE_ENVIRONMENT/VERT_ALPHA.ps_2_0; msg = No such file or directory;
+000001.836|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/SIMPLE_ENVIRONMENT/VERT_ALPHA.ps_2_0> 
+000001.836|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/SIMPLE_ENVIRONMENT/VERT_ALPHA.ps_2_0; msg = No such file or directory;
+000001.836|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/SIMPLE_ENVIRONMENT/VERT_ALPHA.ps_2_0> 
+000001.836|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/SIMPLE_ENVIRONMENT/SHADOW_MAP_ALPHATEST_PS.ps_2_0; msg = No such file or directory;
+000001.836|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/SIMPLE_ENVIRONMENT/SHADOW_MAP_ALPHATEST_PS.ps_2_0> 
+000001.836|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/SIMPLE_ENVIRONMENT/SHADOW_MAP_ALPHATEST_PS.ps_2_0; msg = No such file or directory;
+000001.836|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/SIMPLE_ENVIRONMENT/SHADOW_MAP_ALPHATEST_PS.ps_2_0> 
+000001.836|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/EDITOR/PRECOMPUTE_PERPIXEL_LIGHTING_POINTLIGHT_PS.ps_2_0; msg = No such file or directory;
+000001.836|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/EDITOR/PRECOMPUTE_PERPIXEL_LIGHTING_POINTLIGHT_PS.ps_2_0> 
+000001.836|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/EDITOR/PRECOMPUTE_PERPIXEL_LIGHTING_POINTLIGHT_PS.ps_2_0; msg = No such file or directory;
+000001.836|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/EDITOR/PRECOMPUTE_PERPIXEL_LIGHTING_POINTLIGHT_PS.ps_2_0> 
+000001.836|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/EDITOR/PRECOMPUTE_PERPIXEL_LIGHTING_SUNSKY_PS.ps_2_0; msg = No such file or directory;
+000001.836|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/EDITOR/PRECOMPUTE_PERPIXEL_LIGHTING_SUNSKY_PS.ps_2_0> 
+000001.836|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/EDITOR/PRECOMPUTE_PERPIXEL_LIGHTING_SUNSKY_PS.ps_2_0; msg = No such file or directory;
+000001.836|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/EDITOR/PRECOMPUTE_PERPIXEL_LIGHTING_SUNSKY_PS.ps_2_0> 
+000001.837|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/EDITOR/COMPOSITE_MOD2X_LIGHTMAP_PS.ps_2_0; msg = No such file or directory;
+000001.837|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/EDITOR/COMPOSITE_MOD2X_LIGHTMAP_PS.ps_2_0> 
+000001.837|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/EDITOR/COMPOSITE_MOD2X_LIGHTMAP_PS.ps_2_0; msg = No such file or directory;
+000001.837|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/EDITOR/COMPOSITE_MOD2X_LIGHTMAP_PS.ps_2_0> 
+000001.837|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/EDITOR/POINTLIGHT_SHADOW_PS.ps_2_0; msg = No such file or directory;
+000001.837|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/EDITOR/POINTLIGHT_SHADOW_PS.ps_2_0> 
+000001.837|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/EDITOR/POINTLIGHT_SHADOW_PS.ps_2_0; msg = No such file or directory;
+000001.837|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/EDITOR/POINTLIGHT_SHADOW_PS.ps_2_0> 
+000001.837|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/EDITOR/DIRECTIONAL_EXP_SHADOW_PS.ps_2_0; msg = No such file or directory;
+000001.837|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/EDITOR/DIRECTIONAL_EXP_SHADOW_PS.ps_2_0> 
+000001.837|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/EDITOR/DIRECTIONAL_EXP_SHADOW_PS.ps_2_0; msg = No such file or directory;
+000001.837|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/EDITOR/DIRECTIONAL_EXP_SHADOW_PS.ps_2_0> 
+000001.837|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/EDITOR/AO_SHADOW_COMPOSITE_PS.ps_2_0; msg = No such file or directory;
+000001.837|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/EDITOR/AO_SHADOW_COMPOSITE_PS.ps_2_0> 
+000001.837|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/EDITOR/AO_SHADOW_COMPOSITE_PS.ps_2_0; msg = No such file or directory;
+000001.837|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/EDITOR/AO_SHADOW_COMPOSITE_PS.ps_2_0> 
+000001.837|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/EDITOR/AO_VISIBILITY_COMPOSITE_PS.ps_2_0; msg = No such file or directory;
+000001.837|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/EDITOR/AO_VISIBILITY_COMPOSITE_PS.ps_2_0> 
+000001.837|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/EDITOR/AO_VISIBILITY_COMPOSITE_PS.ps_2_0; msg = No such file or directory;
+000001.837|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/EDITOR/AO_VISIBILITY_COMPOSITE_PS.ps_2_0> 
+000001.837|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/EDITOR/GEN_RELIGHTING_PS.ps_2_0; msg = No such file or directory;
+000001.837|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/EDITOR/GEN_RELIGHTING_PS.ps_2_0> 
+000001.837|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/EDITOR/GEN_RELIGHTING_PS.ps_2_0; msg = No such file or directory;
+000001.837|  ERROR| r3dPixelShader::Load: failed to open file <Data/Shaders/DX9_P1/EDITOR/GEN_RELIGHTING_PS.ps_2_0> 
+000001.837|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/SIMPLE_ENVIRONMENT/SHADOW_MAP_VS.vs_2_0; msg = No such file or directory;
+000001.837|  ERROR| r3dVertexShader::Compile: failed to open file <Data/Shaders/DX9_P1/SIMPLE_ENVIRONMENT/SHADOW_MAP_VS.vs_2_0> 
+000001.837|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/SIMPLE_ENVIRONMENT/LIT_VS.vs_2_0; msg = No such file or directory;
+000001.837|  ERROR| r3dVertexShader::Compile: failed to open file <Data/Shaders/DX9_P1/SIMPLE_ENVIRONMENT/LIT_VS.vs_2_0> 
+000001.837|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/SIMPLE_ENVIRONMENT/LIT_NO_EMISSIVE_VS.vs_2_0; msg = No such file or directory;
+000001.837|  ERROR| r3dVertexShader::Compile: failed to open file <Data/Shaders/DX9_P1/SIMPLE_ENVIRONMENT/LIT_NO_EMISSIVE_VS.vs_2_0> 
+000001.838|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/SIMPLE_ENVIRONMENT/LIT_DECAL_VS.vs_2_0; msg = No such file or directory;
+000001.838|  ERROR| r3dVertexShader::Compile: failed to open file <Data/Shaders/DX9_P1/SIMPLE_ENVIRONMENT/LIT_DECAL_VS.vs_2_0> 
+000001.838|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/SIMPLE_ENVIRONMENT/LIT_NO_EMISSIVE_DECAL_VS.vs_2_0; msg = No such file or directory;
+000001.838|  ERROR| r3dVertexShader::Compile: failed to open file <Data/Shaders/DX9_P1/SIMPLE_ENVIRONMENT/LIT_NO_EMISSIVE_DECAL_VS.vs_2_0> 
+000001.838|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/SIMPLE_ENVIRONMENT/NOLIGHTING_VS.vs_2_0; msg = No such file or directory;
+000001.838|  ERROR| r3dVertexShader::Compile: failed to open file <Data/Shaders/DX9_P1/SIMPLE_ENVIRONMENT/NOLIGHTING_VS.vs_2_0> 
+000001.838|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/SIMPLE_ENVIRONMENT/NOLIGHTING_WITHFOG_VS.vs_2_0; msg = No such file or directory;
+000001.838|  ERROR| r3dVertexShader::Compile: failed to open file <Data/Shaders/DX9_P1/SIMPLE_ENVIRONMENT/NOLIGHTING_WITHFOG_VS.vs_2_0> 
+000001.838|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/SIMPLE_ENVIRONMENT/ZPASS_VS.vs_2_0; msg = No such file or directory;
+000001.838|  ERROR| r3dVertexShader::Compile: failed to open file <Data/Shaders/DX9_P1/SIMPLE_ENVIRONMENT/ZPASS_VS.vs_2_0> 
+000001.838|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/SIMPLE_ENVIRONMENT/ZPASS_ALPHA_TEST_VS.vs_2_0; msg = No such file or directory;
+000001.838|  ERROR| r3dVertexShader::Compile: failed to open file <Data/Shaders/DX9_P1/SIMPLE_ENVIRONMENT/ZPASS_ALPHA_TEST_VS.vs_2_0> 
+000001.838|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/SIMPLE_ENVIRONMENT/WALL_OF_GRASS_VS.vs_2_0; msg = No such file or directory;
+000001.838|  ERROR| r3dVertexShader::Compile: failed to open file <Data/Shaders/DX9_P1/SIMPLE_ENVIRONMENT/WALL_OF_GRASS_VS.vs_2_0> 
+000001.838|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/SIMPLE_ENVIRONMENT/CREATE_GROUND_MOSAIC_DECAL_VS.vs_2_0; msg = No such file or directory;
+000001.838|  ERROR| r3dVertexShader::Compile: failed to open file <Data/Shaders/DX9_P1/SIMPLE_ENVIRONMENT/CREATE_GROUND_MOSAIC_DECAL_VS.vs_2_0> 
+000001.838|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/SIMPLE_ENVIRONMENT/CREATE_GROUND_MOSAIC_FOUR_BLEND_VS.vs_2_0; msg = No such file or directory;
+000001.838|  ERROR| r3dVertexShader::Compile: failed to open file <Data/Shaders/DX9_P1/SIMPLE_ENVIRONMENT/CREATE_GROUND_MOSAIC_FOUR_BLEND_VS.vs_2_0> 
+000001.838|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/SIMPLE_ENVIRONMENT/LIT_GROUND_MOSAIC_VS.vs_2_0; msg = No such file or directory;
+000001.838|  ERROR| r3dVertexShader::Compile: failed to open file <Data/Shaders/DX9_P1/SIMPLE_ENVIRONMENT/LIT_GROUND_MOSAIC_VS.vs_2_0> 
+000001.838|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/SIMPLE_ENVIRONMENT/LIT_FOUR_BLEND_VS.vs_2_0; msg = No such file or directory;
+000001.838|  ERROR| r3dVertexShader::Compile: failed to open file <Data/Shaders/DX9_P1/SIMPLE_ENVIRONMENT/LIT_FOUR_BLEND_VS.vs_2_0> 
+000001.838|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/SIMPLE_ENVIRONMENT/UNLIT_DECAL_VS.vs_2_0; msg = No such file or directory;
+000001.838|  ERROR| r3dVertexShader::Compile: failed to open file <Data/Shaders/DX9_P1/SIMPLE_ENVIRONMENT/UNLIT_DECAL_VS.vs_2_0> 
+000001.838|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/SIMPLE_ENVIRONMENT/CUBE_PROJECTION_VS.vs_2_0; msg = No such file or directory;
+000001.839|  ERROR| r3dVertexShader::Compile: failed to open file <Data/Shaders/DX9_P1/SIMPLE_ENVIRONMENT/CUBE_PROJECTION_VS.vs_2_0> 
+000001.839|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/SIMPLE_ENVIRONMENT/LIT_VERTALPHA_VS.vs_2_0; msg = No such file or directory;
+000001.839|  ERROR| r3dVertexShader::Compile: failed to open file <Data/Shaders/DX9_P1/SIMPLE_ENVIRONMENT/LIT_VERTALPHA_VS.vs_2_0> 
+000001.839|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/SIMPLE_ENVIRONMENT/SHADOW_MAP_ALPHATEST_VS.vs_2_0; msg = No such file or directory;
+000001.839|  ERROR| r3dVertexShader::Compile: failed to open file <Data/Shaders/DX9_P1/SIMPLE_ENVIRONMENT/SHADOW_MAP_ALPHATEST_VS.vs_2_0> 
+000001.839|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/SIMPLE_ENVIRONMENT/LIT_DUAL_COLOR_VS.vs_2_0; msg = No such file or directory;
+000001.839|  ERROR| r3dVertexShader::Compile: failed to open file <Data/Shaders/DX9_P1/SIMPLE_ENVIRONMENT/LIT_DUAL_COLOR_VS.vs_2_0> 
+000001.839|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/SIMPLE_ENVIRONMENT/LIT_DUAL_COLOR_VERTEXALPHA_VS.vs_2_0; msg = No such file or directory;
+000001.839|  ERROR| r3dVertexShader::Compile: failed to open file <Data/Shaders/DX9_P1/SIMPLE_ENVIRONMENT/LIT_DUAL_COLOR_VERTEXALPHA_VS.vs_2_0> 
+000001.839|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/EDITOR/PRECOMPUTE_PERPIXEL_LIGHTING_POINTLIGHT_VS.vs_2_0; msg = No such file or directory;
+000001.839|  ERROR| r3dVertexShader::Compile: failed to open file <Data/Shaders/DX9_P1/EDITOR/PRECOMPUTE_PERPIXEL_LIGHTING_POINTLIGHT_VS.vs_2_0> 
+000001.839|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/EDITOR/PRECOMPUTE_PERPIXEL_LIGHTING_SUNSKY_VS.vs_2_0; msg = No such file or directory;
+000001.839|  ERROR| r3dVertexShader::Compile: failed to open file <Data/Shaders/DX9_P1/EDITOR/PRECOMPUTE_PERPIXEL_LIGHTING_SUNSKY_VS.vs_2_0> 
+000001.839|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/EDITOR/AO_SHADOW_COMPOSITE_VS.vs_2_0; msg = No such file or directory;
+000001.839|  ERROR| r3dVertexShader::Compile: failed to open file <Data/Shaders/DX9_P1/EDITOR/AO_SHADOW_COMPOSITE_VS.vs_2_0> 
+000001.839|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = Data/Shaders/DX9_P1/EDITOR/GEN_RELIGHTING_VS.vs_2_0; msg = No such file or directory;
+000001.839|  ERROR| r3dVertexShader::Compile: failed to open file <Data/Shaders/DX9_P1/EDITOR/GEN_RELIGHTING_VS.vs_2_0> 
+000001.839| ALWAYS| In Riot::Win::Resize: Resizing the window and retrieving monitor info
+000001.839| ALWAYS| In Riot::Win::Resize: Initial VideoMode(3d67c18) and resolution (1920 x 1080) 
+000001.840| ALWAYS| In Riot::Win::Resize: VideoMode(3d67c18) and resolution (960 x 540) 
+000001.840| ALWAYS| In Riot::Win::Resize: Resized window to resolution 1920x1080
+000001.840|  ERROR| Assertion failed!
+
+File: ..\..\..\..\..\..\..\Game\LoL\UX\Font\Client\GameFontManager.cpp
+Line: 103
+
+Function: `anonymous-namespace'::CreateEternityDescFromFontDesc
+
+Expression: !fontTypes.empty()
+
+Description: Assert occurred, game may crash.
+000001.840|  ERROR| std_fopen failed: pFile = 0x00000000; pMode = rb; errno = 2; pFilename = DATA\Fonts\FontMappings.txt; msg = No such file or directory;
+000001.840|  ERROR| FontMappings.txt was missing or otherwise unable to open
+000001.959|  ERROR| Crash Occurred
+000001.959|  ERROR| Crash Occurred
